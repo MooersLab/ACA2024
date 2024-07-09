@@ -1,5 +1,13 @@
 # ACA2024
 
-Slides and videos for "Voice computing for biological crystallography" in the Homemade Software and Instruments session chaired by Victor Young of the University of Minnesota and Larry Falvello of the University of Zaragoza, Spain.
+## Description
+
+Slides and videos for the talk "Voice computing for biological crystallography" in the Homemade Software and Instruments session chaired by Victor Young of the University of Minnesota and Larry Falvello of the University of Zaragoza, Spain.
 The video subfolder must be in the same folder as the PDF for the PDF to access them.
 
+## Sources of funding
+
+- NIH: R01 CA242845
+- NIH: R01 AI088011
+- NIH: P30 CA225520 (PI: R. Mannel)
+- NIH: P20 GM103640 and P30 GM145423 (PI: A. West)
