@@ -1,3 +1,7 @@
+![Version](https://img.shields.io/static/v1?label=ACA2024&message=0.1&color=brightcolor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+
 # ACA2024
 
 ## Description
